@@ -11,7 +11,7 @@ const Header: FC = () => {
       <Container>
         <Group align="center">
           <Text sx={{fontSize: '1.5em', fontWeight: 800}}>
-            <Link href="/">Lite-Explorer 👓</Link>
+            <Link href="/">SBE 👓</Link>
           </Text>
 
           {/* pushes the succeeding contents to the right */}

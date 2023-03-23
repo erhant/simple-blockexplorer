@@ -27,7 +27,7 @@ function App(props: AppProps & {colorScheme: ColorScheme}) {
   return (
     <>
       <Head>
-        <title>Lite-Explorer</title>
+        <title>Simple Block-Explorer</title>
         <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
         <meta name="description" content="A generic & minimal block explorer for EVM-compatible chains." />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
